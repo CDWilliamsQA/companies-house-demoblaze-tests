@@ -4,6 +4,7 @@ This repository contains a functional test plan and a small suite of automated U
 
 The purpose of this submission is to demonstrate test planning, test case design, and the considered use of automation rather than exhaustive test coverage.
 
+In a production setting, this test suite would typically be integrated into a CI pipeline; this has been intentionally omitted to keep the submission focused on test design and automation as per the assessment scope.
 ---
 
 ## Test Website
