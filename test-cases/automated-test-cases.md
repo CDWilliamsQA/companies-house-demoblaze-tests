@@ -1,11 +1,5 @@
 # Automated Test Cases
 
-This document describes the automated test scenarios,
-including the reason each scenario was selected for automation.
-
-
-# Automated Test Cases
-
 This document describes the automated functional test cases implemented for the
 Demoblaze test website. Each test was selected based on risk, user impact, and
 suitability for UI automation.
