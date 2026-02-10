@@ -1,10 +1,5 @@
 # Defects and Observations
 
-This document captures issues and inconsistencies identified
-during exploratory and automated testing of the Demoblaze site.
-
-# Defects and Observations
-
 This document records issues and inconsistencies identified during exploratory and
 automated testing of the Demoblaze test website. The site is assumed to contain
 intentional defects as part of the assessment.
